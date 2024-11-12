@@ -1,5 +1,5 @@
 # **M7_LAB**
-# I worked on the M7 Lab chapter and reources file and I have attached those file to this repository.
+# I worked on the M7 Lab chapter and reources file and I have also attached those file to this repository.
 # **Chapter 1 programs:** 
 # 1. Generate random greetings a friendly or an angry.
 # 3. Generates 10 random numbers, multiplies 10–50 by 5, and provides an updated list.
